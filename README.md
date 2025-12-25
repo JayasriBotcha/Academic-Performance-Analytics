@@ -26,3 +26,10 @@ Teaching Assistants (TAs) impacts outcomes—especially in high-enrollment cours
 - Failure rates peaked during COVID-era academic years and improved post-pandemic.
 - Larger courses benefit disproportionately from instructional support.
 
+## Data Privacy & Ethics
+This project uses real institutional academic data.
+Raw datasets are not included in this repository to comply with FERPA
+and institutional data privacy policies. All analysis is presented
+in an aggregated and anonymized format.
+
+
